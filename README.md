@@ -1,1 +1,1 @@
-# muxiv_downloader
+# MuxivDownloader
